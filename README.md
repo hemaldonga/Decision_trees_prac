@@ -1,1 +1,1 @@
-# Decision_trees_prac
+I have implemented a Decicion tree as a machine learning project Where I have some mushrooms samples in a dataset and decision tree will classify the mushrooms based on whether they are edible or not.
